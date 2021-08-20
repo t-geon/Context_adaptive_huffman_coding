@@ -1,5 +1,7 @@
 # Context_adaptive_huffman_coding
 
+This is the code I wrote through visual studio 2019 on windows.
+
 - Explanation
   Create a general Huffman code table and a context adaptive Huffman table from the training input.
   Encode and decode the test file using the table.
